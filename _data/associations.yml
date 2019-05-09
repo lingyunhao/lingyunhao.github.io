@@ -1,8 +1,0 @@
-# Associations
-# comment out the urls if you do not wish to display them
-
-- organization: TODO
-  role: Volunteer
-  year: 2018 &mdash; 2018
-  url: "#"
-  summary: TODO

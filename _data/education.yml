@@ -1,18 +1,21 @@
 # Degree
 - degree: Master's Degree, Electrical and Computer Engineering
   uni: Carnegie Mellon University
+  location: Pittsburgh, PA
   year: Jan 2018 &mdash; May 2020
   gpa: 'GPA: N/A'
-  summary: 'Selected Courses: Computer Systems, Machine Learning, Java, Software Architecture'
+  summary: 'Courses: Computer Systems, Machine Learning, Java, Software Architecture'
 
 - degree: Master's Coursework, Electrical and Computer Engineering
   uni: Rice University
+  location: Houston, TX
   year: Aug 2018 &mdash; Dec 2018
   gpa: 'GPA: 3.65'
-  summary: 'Selected Courses: Deep Learning, Algorithms'
+  summary: 'Courses: Deep Learning, Algorithms'
 
 - degree: Bachelor's Degree, Electronic and Information Engineering
   uni: Xidian University
+  location: Xi'an, China
   year: Sep 2014 &mdash; Jun 2018
   gpa: 'GPA: 3.75 (Rank Top 1%)'
   # summary: N/A
