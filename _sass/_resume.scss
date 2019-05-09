@@ -207,18 +207,18 @@
   .page-header { padding: 1rem 0 .1rem;
     .header-name {
       @include sans_bold;
-      font-size: 14pxrem;
-      margin: 0 0 .1rem;
+      font-size: 13px;
+      margin: 0 0 .5rem;
     }
   }
   .section-header {
     @include section_border_thin;
-    margin-bottom: .75rem;
-    h2 { font-size: 11px; line-height: .7rem; }
+    margin-bottom: .5rem;
+    h2 { font-size: 12px; line-height: .7rem; }
   }
   .content-section {
-    margin: 0 0 .75rem;
-    .resume-item { margin-bottom: .7rem; }
+    margin: 0 0 .5rem;
+    .resume-item { margin-bottom: .5rem; }
     .resume-item-title {
       font-size: 11px;
       line-height: .7em;
@@ -226,7 +226,7 @@
 
     .resume-item-details {
       font-size: 11px;
-      margin: 0 0 .75rem;
+      margin: 0 0 .5rem;
       line-height: .7em;
       font-style:italic;
 
