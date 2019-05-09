@@ -202,15 +202,14 @@
   .no-print { display: none !important }
   .print-only { display: block !important }
   body { font-size: 12px; line-height: .9rem; }
-  .page-header { padding: .5rem 0 .1rem;
+  .page-header { padding: .25rem 0 .1rem;
     .header-name {
       font-size: 24px;
       margin: 0 0 .25rem;
     }
     .header-contact-info {
-      @include sans;
-      margin-top: .25rem;
-      margin-bottom: .25rem;
+      margin-top: .1rem;
+      margin-bottom: .1rem;
     }
   }
   .section-header {
