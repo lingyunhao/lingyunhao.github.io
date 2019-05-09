@@ -207,7 +207,7 @@
   .page-header { padding: 1rem 0 .1rem;
     .header-name {
       @include sans_bold;
-      font-size: 13px;
+      font-size: 14px;
       margin: 0 0 .5rem;
     }
   }
@@ -228,7 +228,6 @@
       font-size: 11px;
       margin: 0 0 .5rem;
       line-height: .7em;
-      font-style:italic;
 
       &.award-title {
         font-size: 11px;
