@@ -33,7 +33,7 @@
           {% include icon-links.html %}
         </div>
 
-        <div class="executive-summary" itemprop="description">
+        <div class="executive-summary no-print" itemprop="description">
           {{ site.resume_header_intro }}
         </div>
 
@@ -188,7 +188,7 @@
 
       {% if site.resume_section_links %}
       <!-- begin Links -->
-      <section class="content-section">
+      <section class="content-section no-print">
 
         <header class="section-header">
           <h2>Additional Links</h2>
@@ -206,7 +206,7 @@
       <!-- end Links -->
       {% endif %}
 
-      {% if site.resume_print_social_links %}
+      {% if site.resume_a_social_links %}
       <!-- begin Print Social Links -->
       <section class="content-section print-only">
 
