@@ -206,7 +206,7 @@
   body { font-size: 12px; line-height: .7rem; }
   .page-header { padding: 1rem 0 .1rem;
     .header-name {
-      font-size: 1rem;
+      font-size: 20px;
       margin: 0 0 .5rem;
     }
   }
@@ -217,7 +217,8 @@
   .content-section {
     margin: 0 0 .5rem;
     .resume-item { margin-bottom: .5rem; }
-    .resume-item-title {
+    .resume-item-title,
+    .resume-item-details {
       font-size: 12px;
       line-height: .7em;
       margin-bottom: .35rem;
