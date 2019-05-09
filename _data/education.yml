@@ -2,14 +2,17 @@
 - degree: Master's Degree, Electrical and Computer Engineering
   uni: Carnegie Mellon University
   year: Jan 2018 &mdash; May 2020
-  summary: '<ul class="resume-item-list"><li>Selected Courses: Computer Systems, Machine Learning, Java, Software Architecture</li></ul>'
+  gpa: 'GPA: N/A'
+  summary: 'Selected Courses: Computer Systems, Machine Learning, Java, Software Architecture'
 
 - degree: Master's Coursework, Electrical and Computer Engineering
   uni: Rice University
   year: Aug 2018 &mdash; Dec 2018
-  summary: '<ul class="resume-item-list"><li>GPA: 3.65</li><li>Selected Courses: Deep Learning, Algorithms</li></ul>'
+  gpa: 'GPA: 3.65'
+  summary: 'Selected Courses: Deep Learning, Algorithms'
 
 - degree: Bachelor's Degree, Electronic and Information Engineering
   uni: Xidian University
   year: Sep 2014 &mdash; Jun 2018
-  summary: '<ul class="resume-item-list"><li>GPA: 3.75, Rank: Top 1%</li></ul>'
+  gpa: 'GPA: 3.75 (Rank Top 1%)'
+  # summary: N/A
