@@ -203,7 +203,7 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: 1rem; }
+  body { font-size: 12px; line-height: .9rem; }
   .page-header { padding: 1rem 0 .1rem;
     .header-name {
       font-size: 24px;
