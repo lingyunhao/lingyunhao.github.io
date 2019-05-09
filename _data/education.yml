@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master's degree, Electrical and Computer engineering
+  uni: Carnegie Mellon University
+  year: 2018 &mdash; 2020
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: TODO
+  summary: Selected Courses<ul class="resume-item-list"><li>Course A</li><li>Course B</li><li>Course C</li></ul>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master's degree, Electrical and Computer engineering
+  uni: Rice University
+  year: 2018 &mdash; 2019
+  award: TODO
+  summary: TODO
+
+- degree: Bachelor's degree, Electronic and Information Engineering
+  uni: Xidian University
+  year: 2014 &mdash; 2018
+  award: TODO
+  summary: TODO
