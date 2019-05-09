@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Lingyun Hao"
-resume_title:                   "Master of ECE Student at Carnegie Mellon University"
+resume_title:                   "Master of ECE at Carnegie Mellon University"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lingyunh@andrew.cmu.edu"
