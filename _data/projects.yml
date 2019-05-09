@@ -5,6 +5,22 @@
   role: Carnegie Mellon University
   duration: Jan 2019 &mdash; May 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a simple Cache which supported actions such as hit/miss/evite while reading and writing data, and applied least recently used policy (LRU)</li><li>Unix Shell: Designed and implemented a tiny Unix shell, fully capable of forking and handling multiple child
-processes simultaneously, which also supported background & foreground job control, basic Unix commands</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists with
-optimal bucket size selection and first-fit search, and greatly improved throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy, which can be used to access real websites</li></ul>'
+  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a least recently used (LRU) cache which supports actions such as hit/miss/evite while reading and writing data</li><li>Unix Shell: Designed and implemented a tiny Unix shell, fully capable of forking and handling multiple child processes simultaneously, which also supports background & foreground job control, basic Unix commands</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists, optimal bucket size selection and first-fit search, and greatly improved its throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy, which can be used to access real websites</li></ul>'
+
+- project: Student Information Management System (OOD)
+  role: Carnegie Mellon University
+  duration: Feb 2019
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Designed a visualized student directory which records student information such as last/first name and student ID</li><li>Completed operations such as add, delete, search a student via student ID or name</li><li>Visualized via GUI implemented by Java Swing</li></ul>'
+
+- project: Online Judge System
+  role: Individual Project
+  duration: Dec 2018 &mdash; Jan 2019
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Implemented a web-based code editor which supports temporary storage of coding (ACE, Redis)</li><li>Designed and developed a single-page web application for coding problems with features such as ending questions, searching questions and typing codes (Angular2, Node.js, MongoDB, Express)</li><li>Refactored and Improved system throughput by decoupling services using RESTful API</li></ul>'
+
+- project: Vehicle Detection Based on Single Shot Multi-Box Detector (SSD)
+  role: Rice University
+  duration: Nov 2018 &mdash; Dec 2018
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Extracted images of seven vehicle classes from VOC 2007 and VOC 2012 dataset</li><li>Utilized VGG as the base Convolutional Neural Network (CNN)</li><li>Implemented the basic function of vehicle detection task using Single Shot Multi-Box Detector in Python</li></ul>'
