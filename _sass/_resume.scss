@@ -203,14 +203,14 @@
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
-      font-size: 2rem;
+      font-size: 1.75rem;
       margin: 0 0 .2rem;
     }
   }
   .section-header {
     @include section_border_thin;
     margin-bottom: 1rem;
-    h2 { font-size: 1.2rem; line-height: 1.5rem; }
+    h2 { font-size: 1.1rem; line-height: 1.3rem; }
   }
   .content-section {
     margin: 0 0 1rem;
