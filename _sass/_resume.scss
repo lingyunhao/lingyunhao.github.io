@@ -206,13 +206,11 @@
   body { font-size: 12px; line-height: .7rem; }
   .page-header { padding: 1rem 0 .1rem;
     .header-name {
-      @include sans_bold;
-      font-size: 14px;
+      font-size: 16px;
       margin: 0 0 .5rem;
     }
   }
   .section-header {
-    @include section_border_thin;
     margin-bottom: .5rem;
     h2 { font-size: 12px; line-height: .7rem; }
   }
@@ -222,11 +220,12 @@
     .resume-item-title {
       font-size: 12px;
       line-height: .7em;
+      margin-bottom: .25rem;
     }
 
     .resume-item-details {
       font-size: 12px;
-      margin: 0 0 .5rem;
+      margin: 0 0 .25rem;
       line-height: .7em;
     }
   }
