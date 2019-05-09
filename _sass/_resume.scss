@@ -70,7 +70,7 @@
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    @include media_larger_than_mobile { font-size: 1.1rem; }
   }
 }
 
@@ -146,12 +146,12 @@
   }
 
   .resume-item-details {
-    font-size: 1rem;
+    font-size: 1.1rem;
     margin: 0 0 .75rem;
     line-height: 1;
 
     &.award-title {
-      font-size: 1.125rem;
+      font-size: 1.1rem;
     }
   }
 
