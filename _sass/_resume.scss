@@ -209,12 +209,12 @@
   }
   .section-header {
     @include section_border_thin;
-    margin-bottom: 1rem;
+    margin-bottom: .9rem;
     h2 { font-size: 1.1rem; line-height: 1.3rem; }
   }
   .content-section {
-    margin: 0 0 1rem;
-    .resume-item { margin-bottom: 1rem; }
+    margin: 0 0 .9rem;
+    .resume-item { margin-bottom: .7rem; }
     .resume-item-title {
       font-size: 16px;
       line-height: .7em;
