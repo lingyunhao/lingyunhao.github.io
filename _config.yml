@@ -23,7 +23,7 @@ resume_contact_address:         "N/A"
 resume_header_contact_info:     "(713) 382-6523 • lingyunh@andrew.cmu.edu"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a master student major in Electrical & Computer Engineering (ECE) at Carnegie Mellon University. Prior to my graduate study, I obtained a bachelor degree in Electronic and Information Engineering at Xidian University (China) with a cumulative GPA of 3.75/4.0, and stuided at Rice University as a master of ECE program for a semester. I will start my SDE internship shortly at Amazon this summer, and I am open to full-time positions starting from summer 2020.</p>"
+resume_header_intro: "<p>I am a master student majoring in <a href="https://www.ece.cmu.edu/academics/ms-ece/index.html">Electrical and Computer Engineering (ECE) at Carnegie Mellon University</a>. Prior to my graduate study, I obtained a bachelor degree in <a href="https://en.xidian.edu.cn/Teaching/Undergraduate_Programs.htm">Electronic and Information Engineering at Xidian University (China)</a> with a cumulative GPA of 3.75/4.0, and stuided at <a href="https://eceweb.rice.edu/mee-program">Rice University as a master in ECE</a> for a semester. I will start my SDE internship shortly at Amazon this summer, and I am open to full-time positions starting from summer 2020.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
