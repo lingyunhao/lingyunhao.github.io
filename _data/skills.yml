@@ -1,9 +1,9 @@
 # Skills
-# Organizational leadership
 - skill: Programming Languages
-  description: Java, C++, Python (ranked in proficiency)
+  description: Java, Python, C, JavaScript, Linux, C++, Matlab (ranked in proficiency)
 
-# Communications strategy
+- skill: Tools and Platforms
+  description: MongoDB, Git, Postgresql; Node.js, Express, Angular, RESTful, HTML5, CSS3
+
 - skill: Languages
   description: Chinese (Native), English (Professional), French (Communication)
-
