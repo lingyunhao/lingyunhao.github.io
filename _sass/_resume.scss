@@ -203,16 +203,16 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: .7rem; }
+  body { font-size: 12px; line-height: 1rem; }
   .page-header { padding: 1rem 0 .1rem;
     .header-name {
-      font-size: 20px;
+      font-size: 24px;
       margin: 0 0 .5rem;
     }
   }
   .section-header {
     margin-bottom: .5rem;
-    h2 { font-size: 12px; line-height: .7rem; }
+    h2 { font-size: 14px; line-height: .7rem; }
   }
   .content-section {
     margin: 0 0 .5rem;

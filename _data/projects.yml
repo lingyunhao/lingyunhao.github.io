@@ -1,8 +1,10 @@
 # Projects
 # comment out the urls if you do not wish to display them
 
-- project: TODO
-  role: Founder & Primary Developer
-  duration: 2018 &mdash; Present
+- project: Computer System Simulation and Design in C
+  role: Carnegie Mellon University
+  duration: Jan 2019 &mdash; May 2019
   # url: "#"
-  description: <ul class="resume-item-list"><li>Item A</li><li>Item B</li></ul>
+  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a simple Cache which supported actions such as hit/miss/evite while reading and writing data, and applied least recently used policy (LRU)</li><li>Unix Shell: Designed and implemented a tiny Unix shell, fully capable of forking and handling multiple child
+processes simultaneously, which also supported background & foreground job control, basic Unix commands</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists with
+optimal bucket size selection and first-fit search, and greatly improved throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy, which can be used to access real websites</li></ul>'
