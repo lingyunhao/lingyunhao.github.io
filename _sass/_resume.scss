@@ -218,12 +218,14 @@
   }
   .content-section {
     margin: 0 0 .5rem;
-    .resume-item { margin-bottom: .5rem; }
+    .resume-item { 
+      margin-bottom: .5rem;
+    }
     .resume-item-title,
     .resume-item-details {
       font-size: 12px;
       line-height: .7em;
-      margin-bottom: .25rem;
+      margin-bottom: .1rem;
     }
 
     .resume-item-list {
