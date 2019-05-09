@@ -207,6 +207,11 @@
       font-size: 24px;
       margin: 0 0 .25rem;
     }
+    .header-contact-info {
+      @include sans;
+      margin-top: .25rem;
+      margin-bottom: .25rem;
+    }
   }
   .section-header {
     margin-bottom: .5rem;
