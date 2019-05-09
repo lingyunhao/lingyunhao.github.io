@@ -70,7 +70,7 @@
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.1rem; }
+    @include media_larger_than_mobile { font-size: 1rem; }
   }
 }
 
@@ -135,7 +135,7 @@
 .content-section {
   margin: 0 0 3rem;
 
-  .resume-item { margin-bottom: 2rem; }
+  .resume-item { margin-bottom: 1.5rem; }
 
   .resume-item-title {
     @include sans_bold;
