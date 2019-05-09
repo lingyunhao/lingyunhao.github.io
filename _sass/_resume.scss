@@ -203,7 +203,7 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 11px; line-height: .7rem; }
+  body { font-size: 12px; line-height: .7rem; }
   .page-header { padding: 1rem 0 .1rem;
     .header-name {
       @include sans_bold;
@@ -220,18 +220,14 @@
     margin: 0 0 .5rem;
     .resume-item { margin-bottom: .5rem; }
     .resume-item-title {
-      font-size: 11px;
+      font-size: 12px;
       line-height: .7em;
     }
 
     .resume-item-details {
-      font-size: 11px;
+      font-size: 12px;
       margin: 0 0 .5rem;
       line-height: .7em;
-
-      &.award-title {
-        font-size: 11px;
-      }
     }
   }
 }
