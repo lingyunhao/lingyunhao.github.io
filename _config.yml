@@ -16,13 +16,9 @@ resume_title:                   "Master of ECE at Carnegie Mellon University"
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lingyunh@andrew.cmu.edu"
 
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(713) 382-6523"
-resume_contact_address:         "N/A"
-
+# used for header info
 resume_header_contact_info:     "(713) 382-6523 • lingyunh@andrew.cmu.edu"
-display_header_contact_info:    "false"
-
+display_header_contact_info:    "true"
 resume_header_intro: "<p>I am a master student majoring in Electrical & Computer Engineering (ECE) at Carnegie Mellon University. Prior to my graduate study, I obtained a bachelor degree in Electronic and Information Engineering at Xidian University (China) with a cumulative GPA of 3.75/4.0, and stuided at Rice University as a master of ECE for a semester. I will start my SDE internship shortly at Amazon this summer, and I am open to full-time positions starting from summer 2020.</p>"
 
 # use "yes" to display the email contact button,
