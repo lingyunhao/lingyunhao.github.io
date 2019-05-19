@@ -200,6 +200,10 @@
 .print-only { display: none !important }
 
 @media print {
+  * {
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+   }
+
   .no-print { display: none !important }
   .print-only { display: block !important }
   body { font-size: 12px; line-height: .9rem; }

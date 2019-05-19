@@ -4,14 +4,14 @@
   location: Pittsburgh, PA
   year: Jan 2018 &mdash; May 2020
   gpa: 'GPA: N/A'
-  summary: 'Courses: Computer Systems, Machine Learning, Java, Software Architecture'
-
+  summary: '<ul class="resume-item-list"><li>Courses: Computer Systems, Machine Learning, Java, Software Architecture</li></ul>'
+    
 - degree: Master's Coursework, Electrical and Computer Engineering
   uni: Rice University
   location: Houston, TX
   year: Aug 2018 &mdash; Dec 2018
   gpa: 'GPA: 3.65'
-  summary: 'Courses: Deep Learning, Algorithms'
+  summary: '<ul class="resume-item-list"><li>Courses: Deep Learning, Algorithms</li></ul>'
 
 - degree: Bachelor's Degree, Electronic and Information Engineering
   uni: Xidian University
