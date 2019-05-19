@@ -200,9 +200,9 @@
 .print-only { display: none !important }
 
 @media print {
-  * {
-    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-   }
+  // * {
+  //   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  //  }
 
   .no-print { display: none !important }
   .print-only { display: block !important }
@@ -247,7 +247,7 @@
     }
     .resume-item-list {
       margin-top: -0.05rem;
-      margin-bottom: -0.05rem;
+      margin-bottom: -0.1rem;
     }
     .resume-item-list li {
       margin-top: 0.05rem;
