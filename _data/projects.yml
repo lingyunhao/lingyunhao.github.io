@@ -5,13 +5,13 @@
   role: Carnegie Mellon University
   duration: Jan 2019 &mdash; May 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a least recently used (LRU) cache which supports hit, miss, and evite for data I/O</li><li>Unix Shell: Designed and implemented a tiny Unix shell, fully capable of forking and handling multiple child processes simultaneously, which also supports background & foreground job control, basic Unix commands</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists, optimal bucket size selection and first-fit search, and greatly improved its throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy, which can be used to access real websites</li></ul>'
+  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a least recently used (LRU) cache which supports hit, miss, and evite for data I/O</li><li>Unix Shell: Designed and implemented a tiny Unix shell, fully capable of forking and handling multiple child processes simultaneously, which also supports basic Unix commands and background & foreground job control</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists, optimal bucket size selection and first-fit search, and greatly improved its throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy, which can be used to access real websites</li></ul>'
 
 - project: Student Information Management System (OOD)
   role: Carnegie Mellon University
   duration: Feb 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Designed a student directory which records student information such as last/first name and student ID</li><li>Completed operations such as add, delete, search a student via student ID or name</li><li>Visualized via GUI implemented by Java Swing</li></ul>'
+  description: '<ul class="resume-item-list"><li>Designed a student directory which records student information such as name and student ID</li><li>Completed operations such as add, delete, search a student via student ID or name</li><li>Visualized via GUI implemented by Java Swing</li></ul>'
 
 - project: Online Judge System
   role: Individual Project
