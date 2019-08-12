@@ -5,7 +5,7 @@
   role: Carnegie Mellon University
   duration: Jan 2019 &mdash; May 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a least recently used (LRU) cache which supports actions such as hit/miss/evite for data I/O</li><li>Unix Shell: Designed and implemented a tiny Unix shell, fully capable of forking and handling multiple child processes simultaneously, which also supports background & foreground job control, basic Unix commands</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists, optimal bucket size selection and first-fit search, and greatly improved its throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy, which can be used to access real websites</li></ul>'
+  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a least recently used (LRU) cache which supports hit, miss, and evite for data I/O</li><li>Unix Shell: Designed and implemented a tiny Unix shell, fully capable of forking and handling multiple child processes simultaneously, which also supports background & foreground job control, basic Unix commands</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists, optimal bucket size selection and first-fit search, and greatly improved its throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy, which can be used to access real websites</li></ul>'
 
 - project: Student Information Management System (OOD)
   role: Carnegie Mellon University
