@@ -1,6 +1,6 @@
 # Jobs
-- company: Amazon
+- company: Amazon Web Services
   location: Seattle, WA
   position: Software Development Engineer Intern
   duration: May 2019 &mdash; Aug 2019
-  summary: <ul class="resume-item-list"><li>Item A+</li><li>Item B</li><li>Item C</li></ul>
+  summary: <ul class="resume-item-list"><li>Designed CloudTrailToCloudWatch system which helps AWS users monitor and analyze their accounts</li><li>Implemented a service for retrieving results of a query based on underlying data of AWS account activities</li><li>Published metrics and set alarms on data AWS user interested in</li></ul>
