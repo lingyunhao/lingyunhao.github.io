@@ -3,4 +3,4 @@
   location: Seattle, WA
   position: Software Development Engineer Intern
   duration: May 2019 &mdash; Aug 2019
-  summary: <ul class="resume-item-list"><li>Designed CloudTrailToCloudWatch system which helps AWS users monitor and analyze their accounts</li><li>Implemented a service for retrieving results of queries based on underlying data of AWS account activities</li><li>Designed a compomnet which publishes metrics and set alarms on results of a query which is defined by user</li></ul>
+  summary: <ul class="resume-item-list"><li>Designed and developed an AWS service for users to monitor and analyze their accounts</li><li>Provided users with fexible attributes and metrics to analyze account activities</li><li>Enabled automatic retrival and processing of user activity data and resolved data delay issues<li>Utilized multiple AWS cloud services to audit data and visulize metrics on user console</li></ul>
