@@ -54,7 +54,7 @@
             <span style="float:right; font-style: italic;">{{ education.location }}</span>
           </h3>
 
-          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }}, {{ education.gpa }}
+          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }}{% if education.gpa %}, {{ education.gpa }}{% endif %}
             <span style="float:right; font-style: italic;">{{ education.year }} </span>
           </h4>
 
