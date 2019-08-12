@@ -3,4 +3,4 @@
   location: Xi'an, China
   position: Advances in Multimedia Information Processing (PCM) 2017
   duration: Dec 2016 &mdash; May 2017
-  summary: <ul class="resume-item-list"><li>Built images dataset and processed the extracted feature data from each image to acquire feature data matrix</li><li>Established label matrix and label-property matrix according to image categorization information</li><li>????????????</li><li>Adopted soft constraint function (SCH) and preamble hashing code to approach binary code</li><li>Utilized sparse coding to capture the significant structure of images in SCH to promote retrieval accuracy</li></ul>
+  summary: <ul class="resume-item-list"><li>Built images dataset and processed the extracted feature data from each image to acquire feature data matrix</li><li>Established label matrix and label-property matrix according to image categorization information</li><li>Adopted soft constraint function (SCH) and preamble hashing code to approach binary code</li><li>Utilized sparse coding to capture the significant structure of images in SCH to promote retrieval accuracy</li></ul>
