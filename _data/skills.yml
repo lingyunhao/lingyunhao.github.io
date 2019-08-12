@@ -2,8 +2,11 @@
 - skill: Programming Languages
   description: Java, Python, C, JavaScript, Linux, SQL, Matlab, HTML5, CSS3 (ranked in proficiency)
 
-- skill: Tools and Platforms
-  description: MongoDB, Git, Postgresql, Amazon Athena, AWS CloudFormation, AWS CloudTrail, Amazon CloudWatch, Amazon S3; Node.js, Express, Angular, RESTful
+- skill: Tools 
+  description: MongoDB, Git, Postgresql, Amazon Athena
+
+- skill: Platforms
+  description: Node.js, Express, Angular, RESTful, AWS CloudFormation, AWS CloudTrail, Amazon CloudWatch, Amazon S3
 
 - skill: Languages
   description: Chinese (native), English (professional), French (communication)
