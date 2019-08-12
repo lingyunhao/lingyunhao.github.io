@@ -11,13 +11,13 @@
   role: Carnegie Mellon University
   duration: Feb 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Designed a visualized student directory which records student information such as last/first name and student ID</li><li>Completed operations such as add, delete, search a student via student ID or name</li><li>Visualized via GUI implemented by Java Swing</li></ul>'
+  description: '<ul class="resume-item-list"><li>Designed a student directory which records student information such as last/first name and student ID</li><li>Completed operations such as add, delete, search a student via student ID or name</li><li>Visualized via GUI implemented by Java Swing</li></ul>'
 
 - project: Online Judge System
   role: Individual Project
   duration: Dec 2018 &mdash; Jan 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Implemented a web-based code editor which supports temporary storage of coding (ACE, Redis)</li><li>Designed and developed a single-page web application for coding problems with features such as ending questions, searching questions and typing codes (Angular2, Node.js, MongoDB, Express)</li><li>Refactored and Improved system throughput by decoupling services using RESTful API</li></ul>'
+  description: '<ul class="resume-item-list"><li>Implemented a web-based code editor which supports temporary storage of coding (ACE, Redis)</li><li>Designed and developed a single-page web application for coding problems with features such as ending questions, searching questions and typing codes (Angular2, Node.js, MongoDB, Express)</li><li>Refactored and improved system throughput by decoupling services using RESTful API</li></ul>'
 
 - project: Vehicle Detection Based on Single Shot Multi-Box Detector (SSD)
   role: Rice University
