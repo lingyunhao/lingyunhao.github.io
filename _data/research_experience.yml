@@ -1,6 +1,6 @@
 # Jobs
-- company: Xidian University
-  location: Xi'an, China
-  position: A Novel Unsupervised Cross-Model Hashing with Soft Constraint (SCH) Method for Image Retrieval
+- company: Unsupervised Cross-Modal Hashing with Soft Constraint
+  location: PCM 2017
+  position: Xidian University
   duration: Dec 2016 &mdash; May 2017
   summary: <ul class="resume-item-list"><li>Built images dataset and processed the extracted feature data from each image to acquire feature data matrix</li><li>Established label matrix and label-property matrix according to image categorization information</li><li>Resolved Hashing Conversion Function for training and testing data matrix partition</li><li>Adopted soft constraint function and preamble hashing code to approach binary code</li><li>Utilized sparse coding for capturing the significant structure of images in SCH for promoting retrieval accuracy</li></ul>
