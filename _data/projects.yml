@@ -11,7 +11,7 @@
   role: Carnegie Mellon University
   duration: Feb 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Designed a student directory which records and operates student information such as name and student ID</li><li>Designed and implemented a beautiful graphical user interface (GUI) using Java Swing</li></ul>'
+  description: '<ul class="resume-item-list"><li>Developed a student directory system which records and operates student information</li><li>Designed and implemented a beautiful graphical user interface (GUI) using Java Swing</li></ul>'
 
 - project: Online Judge System
   role: Individual Project
