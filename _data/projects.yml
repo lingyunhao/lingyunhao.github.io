@@ -1,7 +1,7 @@
 # Projects
 # comment out the urls if you do not wish to display them
 
-- project: Computer System Simulation and Design
+- project: Computer System Simulation and Design in C
   role: Carnegie Mellon University
   duration: Jan 2019 &mdash; May 2019
   # url: "#"
@@ -11,7 +11,7 @@
   role: Carnegie Mellon University
   duration: Feb 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Designed a student directory which records student information such as name and student ID</li><li>Completed operations such as add, delete, search a student via student ID or name</li><li>Visualized via GUI implemented by Java Swing</li></ul>'
+  description: '<ul class="resume-item-list"><li>Designed a student directory which records and operates student information such as name and student ID</li><li>Designed and implemented a beautiful graphical user interface (GUI) using Java Swing</li></ul>'
 
 - project: Online Judge System
   role: Individual Project

@@ -3,7 +3,7 @@
   description: Java, Python, C, JavaScript, Linux, SQL, Matlab, HTML5, CSS3 (ranked in proficiency)
 
 - skill: Tools
-  description: Lombok, SLF4J; Numpy, Matplotlib,Scikit-learn; MongoDB, Git, Postgresql; Node.js, Express, Angular, RESTful
+  description: Lombok, SLF4J; Numpy, Scikit-learn, Matplotlib; MongoDB, Git, Postgresql; Node.js, Express, Angular, RESTful
 
 - skill: Platforms
   description: Amazon Athena, AWS CloudFormation, AWS CloudTrail, Amazon CloudWatch, Amazon S3
