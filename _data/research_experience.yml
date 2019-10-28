@@ -1,6 +1,6 @@
 # Jobs
-- company: <a href="https://link.springer.com/chapter/10.1007/978-3-319-77383-4_74">Unsupervised Cross-Modal Hashing with Soft Constraint</a>
+- company: <a href="https://link.springer.com/chapter/10.1007/978-3-319-77383-4_74">Unsupervised Cross-Modal Hashing with Soft Constraint(Machine learning</a>
   location: Xi'an, China
   position: Advances in Multimedia Information Processing (PCM) 2017
   duration: Dec 2016 &mdash; May 2017
-  summary: <ul class="resume-item-list"><li>Built images dataset with extracted image features stored as data matrices</li><li>Established label matrices and label-property matrices according to image categorization information</li><li>Adopted soft constraint function (SCH) and preamble hashing code to approach target binary code</li><li>Utilized sparse coding to capture the significant structure of images in SCH to increase retrieval accuracy</li></ul>
+  summary: <ul class="resume-item-list"></li>Developed an algorithm for Large Scale Image and Text Cross-modal Retrieval<li><li>Built images dataset with extracted image features stored as data matrices</li><li>Established label matrices and label-property matrices according to image categorization information</li><li>Adopted soft constraint function (SCH) and preamble hashing code to approach target binary code</li><li>Utilized sparse coding to capture the significant structure of images in SCH to increase retrieval accuracy</li></li>Enabled retrieval of images by key words in and out of the database and retrival of topics by an arbitrary image.<li></ul>
