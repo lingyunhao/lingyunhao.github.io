@@ -206,13 +206,6 @@
 
   .no-print { display: none !important }
   .print-only { display: block !important }
-  a,
-  a:link,
-  a:visited,
-  a:hover,
-  a:active{
-      text-decoration: none;
-  }
   body { font-size: 12px; line-height: .9rem; }
   .page-header { padding: .25rem 0 .1rem;
     .header-name {
@@ -239,6 +232,13 @@
       line-height: .7em;
       margin-top: .2rem;
       margin-bottom: .35rem;
+      a,
+      a:link,
+      a:visited,
+      a:hover,
+      a:active{
+          text-decoration: none;
+      }
     }
     .resume-item-details {
       font-size: 12px;
