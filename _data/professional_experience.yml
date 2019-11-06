@@ -3,4 +3,4 @@
   location: Seattle, WA
   position: Software Development Engineer Intern
   duration: May 2019 &mdash; Aug 2019
-  summary: <ul class="resume-item-list"><li>Designed and developed an AWS service for users to monitor and analyze their accounts</li><li>Provided users with flexible attributes and metrics to analyze account activities</li><li>Enabled automatic retrieval and processing of user activity data and resolved data delay issues<li>Utilized multiple AWS cloud services to audit data and visualize metrics on user console</li><li>Work widely used by internal Amazon teams for on-call unusual condition detection</li></ul>
+  summary: <ul class="resume-item-list"><li>Designed and developed an AWS service for users to monitor and analyze their accounts</li><li>Provided users with flexible attributes and metrics to analyze account activities</li><li>Enabled automatic retrieval and processing of user activity data and resolved data delay issues<li>Utilized multiple AWS cloud services to audit data and visualize metrics on user console</li></ul>
